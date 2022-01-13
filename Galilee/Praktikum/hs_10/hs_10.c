@@ -1,3 +1,6 @@
+//hs_10
+//18314726
+//Jörg Galilee Uwimana
 #include <stdio.h>
 #include <math.h>
 #include <stdlib.h>
