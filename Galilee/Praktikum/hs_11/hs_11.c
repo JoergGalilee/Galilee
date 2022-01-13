@@ -1,3 +1,7 @@
+//hs_11
+//18314726
+//Jörg Galilee Uwimana
+
 /*#include <stdio.h>
 int main() {
     int arr[3][3][3] = {};
